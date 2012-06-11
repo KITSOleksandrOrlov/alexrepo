@@ -1,6 +1,7 @@
 package myPackage;
 
 public class Base {
+//comment by user 1    
 //comment user2 in master branch    
 	private String field;
 	
