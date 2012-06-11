@@ -1,7 +1,7 @@
 package myPackage;
 
 public class Base {
-    
+//comment user2 in master branch    
 	private String field;
 	
 	public Base() {
