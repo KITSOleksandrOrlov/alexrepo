@@ -1,7 +1,7 @@
 package myPackage;
 
 public class Base {
-    
+//comment by user 1    
 	private String field;
 	
 	public Base() {
